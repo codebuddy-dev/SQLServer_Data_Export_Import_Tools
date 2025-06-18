@@ -1,0 +1,3 @@
+This SQL Server Export-Import Utility enables fast and efficient data transfer between SQL Server instances. It allows you to export data from any SQL Server table based on specific selection criteria and conditions, and generate a data file. This file can then be imported into another SQL Server instance at a different location. The utility supports exporting and importing of Image/Blob columns as well, with no limitations on table size or row count.
+
+Developed as a Windows Forms application in Visual Studio 2015, it runs as a standalone Windows utility. The complete source code is included, allowing users to customize and enhance the tool as needed. for any query please contact on codebuddyupw@gmail.com 
